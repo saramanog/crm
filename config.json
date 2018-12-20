@@ -1,0 +1,11 @@
+{
+    "sqlServerConnection" : {
+                "server": "localhost",
+                "driver": "msnodesqlv8",
+                "database": "CRM",
+                "options": {
+                    "trustedConnection": true
+                         },
+                "parseJson" : true
+    }
+}
